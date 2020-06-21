@@ -1,5 +1,20 @@
 #!/bin/sh
 
+##
+# cargo-install-favorites
+#
+# Use the `cargo` command to install our favorite crates for Rust, Rocket, etc.
+#
+# ## Tracking
+#
+# * Command: https://github.com/sixarm/npm-install-favorites
+# * Version: 1.4.0
+# * Created: 2020-06-19T02:05:11Z
+# * Updated: 2020-06-21T00:42:06Z
+# * License: [GPL-2.0](https://spdx.org/licenses/GPL-2.0-only.html)
+# * Contact: [Joel Parker Henderson](http://joelparkerhenderson.com)
+##
+
 # Display current network utilization by process, connection and remote IP/hostname 
 cargo install bandwhich
 
