@@ -72,6 +72,9 @@ cargo install sccache
 # Fast minimal infinitely customizable prompt for any shell.
 cargo install starship
 
+# Tera CLI for one-off Tera template interpolation from context file / env vars.
+cargo install tera-cli
+
 # Fetch and show tldr help pages for many CLI commands. Full featured offline client with caching support. .
 cargo install tealdeer
 
