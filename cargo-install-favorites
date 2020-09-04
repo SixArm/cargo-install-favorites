@@ -36,6 +36,9 @@ cargo install fw
 # blazing fast terminal-ui for git.
 cargo install gitui
 
+# HTML command line parser akin to `jq` for JSON
+cargo install htmlq
+
 # Fast, lag-free terminal file browser
 cargo install hunter
 
