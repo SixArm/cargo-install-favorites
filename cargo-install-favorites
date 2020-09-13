@@ -51,6 +51,9 @@ cargo install lolcate-rs
 # ls command with a lot of pretty colors and some other stuff.
 cargo install lsd
 
+# Task runner akin to `make` command with `Makefile`
+cargo install cargo-make
+
 # cat for markdown: Show markdown documents in terminals.
 cargo install mdcat
 
@@ -72,6 +75,9 @@ cargo install sd
 # Shared Compilation Cache.
 cargo install sccache
 
+# Simple HTTP server that can serve static fils
+cargo install simple-http-server 
+
 # Fast minimal infinitely customizable prompt for any shell.
 cargo install starship
 
@@ -80,6 +86,9 @@ cargo install tera-cli
 
 # Fetch and show tldr help pages for many CLI commands. Full featured offline client with caching support. .
 cargo install tealdeer
+
+# Compile Rust to Wasm and generate JS interop code
+cargo install wasm-pack          
 
 # Watch files for modifications then execute commands.
 cargo install watchexec
