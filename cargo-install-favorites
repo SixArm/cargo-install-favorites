@@ -72,6 +72,9 @@ cargo install projector
 # ripgrep is a line-oriented search tool that recursively searches your current directory for a regex pattern while respecting your gitignore rules.
 cargo install ripgrep
 
+# ripgrep-all uses ripgrep to search files via other installed tools: pandoc, poppler, tesseract, ffmpeg, etc.
+cargo install ripgrep_all
+
 # An intuitive find & replace CLI.
 cargo install sd
 
