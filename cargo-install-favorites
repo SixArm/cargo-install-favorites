@@ -99,5 +99,8 @@ cargo install wasm-pack
 # Watch files for modifications then execute commands.
 cargo install watchexec
 
+# Terminal workspace multiplexer, akin to `screen` or `tmux`.
+cargo install zellij
+
 # A faster way to navigate your filesystem.
 cargo install zoxide
