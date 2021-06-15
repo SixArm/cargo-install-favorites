@@ -90,6 +90,11 @@ cargo install htmlq
 # https://github.com/rabite0/hunter
 cargo install hunter
 
+# A command-line benchmarking tool.
+# https://crates.io/crates/hyperfine
+# https://github.com/sharkdp/hyperfine
+cargo install hyperfine
+
 # Fast indexing and querying your filesystem. Replaces `locate`, `mlocate`, `updatedb`.
 # https://crates.io/crates/lolcate-rs
 # https://github.com/ngirard/lolcate-rs
@@ -173,6 +178,11 @@ cargo install wasm-pack
 # https://crates.io/crates/watchexec
 # https://github.com/watchexec/watchexec
 cargo install watchexec
+
+# xh is a friendly and fast tool for sending HTTP requests.
+# https://crates.io/crates/xh
+# https://github.com/ducaale/xh
+cargo install xh
 
 # Terminal workspace multiplexer. Like `screen` and `tmux`.
 # https://crates.io/crates/zellij

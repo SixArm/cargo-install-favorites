@@ -124,7 +124,7 @@ cargo install gping
 
 ### htmlq
 
-HTML command line parser. Like `jq` for JSON
+HTML command line parser. Like `jq` for JSON.
 * https://crates.io/crates/htmlq
 * https://github.com/mgdm/htmlq
 ```sh
@@ -133,11 +133,20 @@ cargo install htmlq
 
 ### hunter
 
-Fast, lag-free terminal file browser
+Fast, lag-free terminal file browser.
 * https://crates.io/crates/hunter
 * https://github.com/rabite0/hunter
 ```sh
 cargo install hunter
+```
+
+### hyperfine
+
+A command-line benchmarking tool.
+* https://crates.io/crates/hyperfine
+* https://github.com/sharkdp/hyperfine
+```sh
+cargo install hyperfine
 ```
 
 ### lolcate-rs
