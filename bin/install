@@ -1,10 +1,20 @@
-# Rust Cargo favorites
+#!/bin/sh
 
-Our favorites for Rust, Cargo, and the related ecosystems.
+##
+# install
+#
+# Use the `cargo` command to install our favorite crates for Rust, Rocket, etc.
+#
+# ## Tracking
+#
+# * Command: https://github.com/sixarm/rust-cargo-favorites/bin/install
+# * Version: 1.5.0
+# * Created: 2020-06-19T02:05:11Z
+# * Updated: 2021-06-15T19:09:24Z
+# * License: [GPL-2.0](https://spdx.org/licenses/GPL-2.0-only.html)
+# * Contact: [Joel Parker Henderson](http://joelparkerhenderson.com)
+##
 
-Runnable script: [install](bin/install)
-
-```sh
 # Display current network utilization by process, connection, and remote IP/hostname.
 # https://crates.io/crates/bandwhich
 # https://github.com/imsnif/bandwhich
@@ -148,4 +158,3 @@ cargo install zellij
 # https://crates.io/crates/zoxide
 # https://github.com/ajeetdsouza/zoxide
 cargo install zoxide
-```
