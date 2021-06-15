@@ -187,7 +187,6 @@ cargo install mdcat
 
 ### pingkeeper
 
-```
 Monitor that network is reachable; in case of failure, run a command.
 * https://crates.io/crates/pingkeeper
 * https://github.com/ignlg/pingkeeper
