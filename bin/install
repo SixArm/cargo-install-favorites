@@ -35,6 +35,11 @@ cargo install bottom
 # https://github.com/Robzz/cargo-docset
 cargo install cargo-docset
 
+# exa is a modern replacement for `ls`.
+# https://crates.io/crates/exa
+# https://github.com/ogham/exa
+cargo install exa
+
 # fd is a simple, fast and user-friendly alternative to `find`.
 # https://crates.io/crates/fd-find
 # https://github.com/sharkdp/fd
