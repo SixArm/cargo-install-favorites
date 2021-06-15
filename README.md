@@ -30,6 +30,11 @@ cargo install broot
 # https://github.com/Robzz/cargo-docset
 cargo install cargo-docset
 
+# Task runner akin to `make` command with `Makefile`
+# https://crates.io/crates/cargo-make
+# https://github.com/sagiegurari/cargo-make
+cargo install cargo-make
+
 # Show disk usage. Like `du` and more intuitive. Mnemonic: du + rust = dust.
 # https://crates.io/crates/dust
 # https://github.com/bootandy/dust
@@ -80,10 +85,10 @@ cargo install lolcate-rs
 # https://github.com/Peltoche/lsd
 cargo install lsd
 
-# Task runner akin to `make` command with `Makefile`
-# https://crates.io/crates/cargo-make
-# https://github.com/sagiegurari/cargo-make
-cargo install cargo-make
+# McFly replaces `ctrl-r` shell history search.
+# https://crates.io/crates/mcfly
+# https://github.com/cantino/mcfly
+cargo install mcfly
 
 # cat for markdown: Show markdown documents in terminals.
 # https://crates.io/crates/mdcat
