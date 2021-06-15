@@ -293,6 +293,15 @@ Watch files for modifications then execute commands.
 cargo install watchexec
 ```
 
+### xh
+
+xh is a friendly and fast tool for sending HTTP requests.
+* https://crates.io/crates/xh
+* https://github.com/ducaale/xh
+```sh
+cargo install xh
+```
+
 ### zellij
 
 Terminal workspace multiplexer. Like `screen` and `tmux`.
