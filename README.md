@@ -35,6 +35,11 @@ cargo install cargo-docset
 # https://github.com/sagiegurari/cargo-make
 cargo install cargo-make
 
+# A human-friendly and fast alternative to `cut` and (sometimes) `awk` 
+# https://crates.io/crates/choose
+# https://github.com/theryangeary/choose
+cargo install choose
+
 # Show disk usage. Like `du` and more intuitive. Mnemonic: du + rust = dust.
 # https://crates.io/crates/dust
 # https://github.com/bootandy/dust
