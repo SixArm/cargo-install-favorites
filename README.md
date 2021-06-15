@@ -1,6 +1,6 @@
 # Rust Cargo favorites - our awesome list
 
-Our favorites for Rust, Cargo, and the related ecosystems, especially for using a command line interface (CLI), terminal, and shell.
+Our favorites for Rust, Cargo, and the related ecosystems, especially for using a command line interface (CLI), terminal, and shell. We welcome suggestions.
 
 Runnable script: [install](bin/install)
 
