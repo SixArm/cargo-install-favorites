@@ -35,6 +35,11 @@ cargo install bottom
 # https://github.com/Robzz/cargo-docset
 cargo install cargo-docset
 
+# Show disk usage. Like `du` and more intuitive. Mnemonic: du + rust = dust.
+# https://crates.io/crates/dust
+# https://github.com/bootandy/dust
+cargo install dust
+
 # exa is a modern replacement for `ls`.
 # https://crates.io/crates/exa
 # https://github.com/ogham/exa

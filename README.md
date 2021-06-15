@@ -25,6 +25,16 @@ cargo install bottom
 # https://github.com/Robzz/cargo-docset
 cargo install cargo-docset
 
+# Like `du` but more intuitive: du + rust = dust.
+# https://crates.io/crates/dust
+# https://github.com/bootandy/dust
+cargo install dust
+
+# exa is a modern replacement for `ls`.
+# https://crates.io/crates/exa
+# https://github.com/ogham/exa
+cargo install exa
+
 # fd is a simple, fast and user-friendly alternative to `find`.
 # https://crates.io/crates/fd-find
 # https://github.com/sharkdp/fd
