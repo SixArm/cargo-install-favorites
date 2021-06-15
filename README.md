@@ -20,12 +20,17 @@ cargo install bat
 # https://github.com/ClementTsang/bottom
 cargo install bottom
 
+# A better way to navigate directories. Like `tree`.
+# https://crates.io/crates/broot
+# https://github.com/Canop/broot
+cargo install broot
+
 # Generate a Zeal/Dash docset for your rust package.
 # https://crates.io/crates/cargo-docset
 # https://github.com/Robzz/cargo-docset
 cargo install cargo-docset
 
-# Like `du` but more intuitive: du + rust = dust.
+# Show disk usage. Like `du` and more intuitive. Mnemonic: du + rust = dust.
 # https://crates.io/crates/dust
 # https://github.com/bootandy/dust
 cargo install dust
