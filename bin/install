@@ -35,16 +35,6 @@ cargo install bottom
 # https://github.com/Canop/broot
 cargo install broot
 
-# Generate a Zeal/Dash docset for your rust package.
-# https://crates.io/crates/cargo-docset
-# https://github.com/Robzz/cargo-docset
-cargo install cargo-docset
-
-# Task runner akin to `make` command with `Makefile`
-# https://crates.io/crates/cargo-make
-# https://github.com/sagiegurari/cargo-make
-cargo install cargo-make
-
 # A human-friendly and fast alternative to `cut` and (sometimes) `awk` 
 # https://crates.io/crates/choose
 # https://github.com/theryangeary/choose
@@ -193,3 +183,21 @@ cargo install zellij
 # https://crates.io/crates/zoxide
 # https://github.com/ajeetdsouza/zoxide
 cargo install zoxide
+
+### Cargo helpers ###
+
+# Generate a Zeal/Dash docset for your rust package.
+# https://crates.io/crates/cargo-docset
+# https://github.com/Robzz/cargo-docset
+cargo install cargo-docset
+
+# Task runner akin to `make` command with `Makefile`
+# https://crates.io/crates/cargo-make
+# https://github.com/sagiegurari/cargo-make
+cargo install cargo-make
+
+# Update all Cargo crates. 
+# https://crates.io/crates/cargo-update
+# https://github.com/nabijaczleweli/cargo-update
+cargo install cargo-update
+

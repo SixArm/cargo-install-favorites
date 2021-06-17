@@ -40,24 +40,6 @@ A better way to navigate directories. Like `tree`.
 cargo install broot
 ```
 
-### cargo-docset
-
-Generate a Zeal/Dash docset for your rust package.
-* https://crates.io/crates/cargo-docset
-* https://github.com/Robzz/cargo-docset
-```sh
-cargo install cargo-docset
-```
-
-### cargo-make
-
-Task runner akin to `make` command with `Makefile`
-* https://crates.io/crates/cargo-make
-* https://github.com/sagiegurari/cargo-make
-```sh
-cargo install cargo-make
-```
-
 ### choose
 
 ```
@@ -326,4 +308,35 @@ A faster way to navigate your filesystem. Like `cd` and `jump`.
 * https://github.com/ajeetdsouza/zoxide
 ```sh
 cargo install zoxide
+```
+
+
+## Cargo helpers
+
+
+### cargo-docset
+
+Generate a Zeal/Dash docset for your rust package.
+* https://crates.io/crates/cargo-docset
+* https://github.com/Robzz/cargo-docset
+```sh
+cargo install cargo-docset
+```
+
+### cargo-make
+
+Task runner akin to `make` command with `Makefile`
+* https://crates.io/crates/cargo-make
+* https://github.com/sagiegurari/cargo-make
+```sh
+cargo install cargo-make
+```
+
+### cargo-update
+
+Update all Cargo crates. 
+* https://crates.io/crates/cargo-update
+* https://github.com/nabijaczleweli/cargo-update
+```sh
+cargo install cargo-update
 ```
