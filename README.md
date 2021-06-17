@@ -274,13 +274,13 @@ Compile Rust to Wasm and generate JS interop code
 cargo install wasm-pack          
 ```
 
-### watchexec
+### watchexec-cli
 
 Watch files for modifications then execute commands.
-* https://crates.io/crates/watchexec
+* https://crates.io/crates/watchexec-cli
 * https://github.com/watchexec/watchexec
 ```sh
-cargo install watchexec
+cargo install watchexec-cli
 ```
 
 ### xh

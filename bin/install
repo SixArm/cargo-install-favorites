@@ -165,9 +165,9 @@ cargo install tealdeer
 cargo install wasm-pack          
 
 # Watch files for modifications then execute commands.
-# https://crates.io/crates/watchexec
+# https://crates.io/crates/watchexec-cli
 # https://github.com/watchexec/watchexec
-cargo install watchexec
+cargo install watchexec-cli
 
 # xh is a friendly and fast tool for sending HTTP requests.
 # https://crates.io/crates/xh
@@ -200,4 +200,3 @@ cargo install cargo-make
 # https://crates.io/crates/cargo-update
 # https://github.com/nabijaczleweli/cargo-update
 cargo install cargo-update
-
