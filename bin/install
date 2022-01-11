@@ -8,7 +8,7 @@
 # ## Tracking
 #
 # * Command: https://github.com/sixarm/rust-cargo-favorites/bin/install
-# * Version: 1.5.0
+# * Version: 1.6.0
 # * Created: 2020-06-19T02:05:11Z
 # * Updated: 2021-06-15T19:09:24Z
 # * License: [GPL-2.0](https://spdx.org/licenses/GPL-2.0-only.html)
@@ -35,10 +35,15 @@ cargo install bottom
 # https://github.com/Canop/broot
 cargo install broot
 
-# A human-friendly and fast alternative to `cut` and (sometimes) `awk` 
+# A human-friendly and fast alternative to `cut` and (sometimes) `awk`.
 # https://crates.io/crates/choose
 # https://github.com/theryangeary/choose
 cargo install choose
+
+# A code review system for the cargo package manager.
+# https://crates.io/crates/cargo-crev/
+# https://github.com/crev-dev/cargo-crev/
+cargo install cargo-crev
 
 # Show disk usage. Like `du` and more intuitive. Mnemonic: du + rust = dust.
 # https://crates.io/crates/dust
