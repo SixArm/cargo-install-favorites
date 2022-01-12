@@ -60,6 +60,11 @@ cargo install exa
 # https://github.com/sharkdp/fd
 cargo install fd-find
 
+# flamegraph is a tool for visualizing call graphs of Rust programs.
+# https://crates.io/crates/flamegraph
+# https:///github.com/brendangregg/FlameGraph
+cargo install flamegraph
+
 # Faster workspace management.
 # https://crates.io/crates/fw
 # https://github.com/brocode/fw
