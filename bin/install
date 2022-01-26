@@ -45,6 +45,11 @@ cargo install choose
 # https://github.com/crev-dev/cargo-crev/
 cargo install cargo-crev
 
+# Check your cargo doc documentation for broken links.
+# https://crates.io/crates/cargo-deadlinks
+# https://github.com/deadlinks/cargo-deadlinks
+cargo install cargo-deadlinks
+
 # Show disk usage. Like `du` and more intuitive. Mnemonic: du + rust = dust.
 # https://crates.io/crates/dust
 # https://github.com/bootandy/dust
