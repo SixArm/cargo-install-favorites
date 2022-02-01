@@ -8,9 +8,9 @@
 # ## Tracking
 #
 # * Command: https://github.com/sixarm/rust-cargo-favorites/bin/install
-# * Version: 1.6.0
+# * Version: 1.7.0
 # * Created: 2020-06-19T02:05:11Z
-# * Updated: 2021-06-15T19:09:24Z
+# * Updated: 2022-02-01T08:58:41Z
 # * License: [GPL-2.0](https://spdx.org/licenses/GPL-2.0-only.html)
 # * Contact: [Joel Parker Henderson](http://joelparkerhenderson.com)
 ##
@@ -39,21 +39,6 @@ cargo install broot
 # https://crates.io/crates/choose
 # https://github.com/theryangeary/choose
 cargo install choose
-
-# A code review system for the cargo package manager.
-# https://crates.io/crates/cargo-crev/
-# https://github.com/crev-dev/cargo-crev/
-cargo install cargo-crev
-
-# Check your cargo doc documentation for broken links.
-# https://crates.io/crates/cargo-deadlinks
-# https://github.com/deadlinks/cargo-deadlinks
-cargo install cargo-deadlinks
-
-# Edit your cargo file via the command line.
-# https://crates.io/crates/cargo-edit
-# https://github.com/killercup/cargo-edit
-cargo install cargo-edit
 
 # Show disk usage. Like `du` and more intuitive. Mnemonic: du + rust = dust.
 # https://crates.io/crates/dust
@@ -206,10 +191,25 @@ cargo install zoxide
 
 ### Cargo helpers ###
 
+# A code review system for the cargo package manager.
+# https://crates.io/crates/cargo-crev/
+# https://github.com/crev-dev/cargo-crev/
+cargo install cargo-crev
+
+# Check your cargo doc documentation for broken links.
+# https://crates.io/crates/cargo-deadlinks
+# https://github.com/deadlinks/cargo-deadlinks
+cargo install cargo-deadlinks
+
 # Generate a Zeal/Dash docset for your rust package.
 # https://crates.io/crates/cargo-docset
 # https://github.com/Robzz/cargo-docset
 cargo install cargo-docset
+
+# Edit your cargo file via the command line.
+# https://crates.io/crates/cargo-edit
+# https://github.com/killercup/cargo-edit
+cargo install cargo-edit
 
 # Task runner akin to `make` command with `Makefile`
 # https://crates.io/crates/cargo-make
@@ -220,3 +220,9 @@ cargo install cargo-make
 # https://crates.io/crates/cargo-update
 # https://github.com/nabijaczleweli/cargo-update
 cargo install cargo-update
+
+### Rust components
+
+# Lints to catch mistakes and improve your Rust code.
+# https://github.com/rust-lang/rust-clippy
+rustup component add clippy
