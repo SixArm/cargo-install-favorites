@@ -50,6 +50,11 @@ cargo install cargo-crev
 # https://github.com/deadlinks/cargo-deadlinks
 cargo install cargo-deadlinks
 
+# Edit your cargo file via the command line.
+# https://crates.io/crates/cargo-edit
+# https://github.com/killercup/cargo-edit
+cargo install cargo-edit
+
 # Show disk usage. Like `du` and more intuitive. Mnemonic: du + rust = dust.
 # https://crates.io/crates/dust
 # https://github.com/bootandy/dust
