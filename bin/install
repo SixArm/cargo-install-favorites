@@ -80,6 +80,11 @@ cargo install gping
 # https://github.com/mgdm/htmlq
 cargo install htmlq
 
+# Modern alternative to the watch command,
+# https://crates.io/crates/hwatch
+# https://github.com/blacknon/hwatch
+cargo install hwatch
+
 # Fast, lag-free terminal file browser
 # https://crates.io/crates/hunter
 # https://github.com/rabite0/hunter
