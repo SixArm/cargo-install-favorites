@@ -75,17 +75,17 @@ cargo install gitui
 # https://github.com/orf/gping
 cargo install gping
 
-# HTML command line parser. Like `jq` for JSON
+# HTML command line parser. Like `jq` for JSON.
 # https://crates.io/crates/htmlq
 # https://github.com/mgdm/htmlq
 cargo install htmlq
 
-# Modern alternative to the watch command,
+# Modern alternative to the watch command.
 # https://crates.io/crates/hwatch
 # https://github.com/blacknon/hwatch
 cargo install hwatch
 
-# Fast, lag-free terminal file browser
+# Fast, lag-free terminal file browser.
 # https://crates.io/crates/hunter
 # https://github.com/rabite0/hunter
 cargo install hunter
@@ -110,6 +110,11 @@ cargo install lsd
 # https://github.com/cantino/mcfly
 cargo install mcfly
 
+# mdBook is a utility to create modern online books from Markdown files.
+# https://crates.io/crates/mdbook
+# https://github.com/rust-lang/mdBook
+cargo install mdbook
+
 # cat for markdown: Show markdown documents in terminals.
 # https://crates.io/crates/mdcat
 # https://github.com/lunaryorn/mdcat
@@ -125,7 +130,7 @@ cargo install pingkeeper
 # https://github.com/dalance/procs
 cargo install procs
 
-# Project management CLI for git repos
+# Project management CLI for git repos.
 # https://crates.io/crates/projector
 cargo install projector
 
@@ -149,10 +154,14 @@ cargo install sd
 # https://github.com/mozilla/sccache
 cargo install sccache
 
-# Simple HTTP server that can serve static fils
+# Simple HTTP server that can serve static files.
 # https://crates.io/crates/simple-http-server
 # https://github.com/TheWaWaR/simple-http-server
 cargo install simple-http-server 
+
+# Command-line utility for SQLx, the Rust SQL toolkit .
+# https://lib.rs/crates/sqlx-cli
+cargo install sqlx-cli
 
 # Fast minimal infinitely customizable prompt for any shell.
 # https://crates.io/crates/starship
@@ -169,7 +178,7 @@ cargo install tera-cli
 # https://github.com/dbrgn/tealdeer
 cargo install tealdeer
 
-# Compile Rust to Wasm and generate JS interop code
+# Compile Rust to Wasm and generate JS interop code.
 # https://crates.io/crates/wasm-pack
 # https://github.com/rustwasm/wasm-pack
 cargo install wasm-pack          
