@@ -40,6 +40,11 @@ cargo install broot
 # https://github.com/theryangeary/choose
 cargo install choose
 
+# A diff that understands syntax.
+# https://crates.io/crates/difftastic
+# https://github.com/wilfred/difftastic
+cargo install difftastic
+
 # Show disk usage. Like `du` and more intuitive. Mnemonic: du + rust = dust.
 # https://crates.io/crates/dust
 # https://github.com/bootandy/dust
