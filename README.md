@@ -1,4 +1,4 @@
-# Rust Cargo favorites - our awesome list
+# Cargo install favorites - our awesome list
 
 Our favorites for Rust, Cargo, and the related ecosystems, especially for using a command line interface (CLI), terminal, and shell. We welcome suggestions.
 
@@ -313,6 +313,15 @@ cargo install zoxide
 
 ## Cargo helpers
 
+
+### cargo-cache
+
+Display information on the cargo cache, with optional cache pruning.
+* https://github.com/matthiaskrgr/cargo-cache
+* https://crates.io/crates/cargo-cache
+```sh
+cargo install cargo-cache
+```
 
 ### cargo-docset
 

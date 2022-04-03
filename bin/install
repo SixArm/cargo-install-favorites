@@ -210,6 +210,11 @@ cargo install zoxide
 
 ### Cargo helpers ###
 
+# Display information on the cargo cache, with optional cache pruning.
+# https://github.com/matthiaskrgr/cargo-cache
+# https://crates.io/crates/cargo-cache
+cargo install cargo-cache
+
 # A code review system for the cargo package manager.
 # https://crates.io/crates/cargo-crev/
 # https://github.com/crev-dev/cargo-crev/
