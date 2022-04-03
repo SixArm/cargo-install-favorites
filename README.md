@@ -42,12 +42,20 @@ cargo install broot
 
 ### choose
 
-```
 A human-friendly and fast alternative to `cut` and (sometimes) `awk` 
 * https://crates.io/crates/choose
 * https://github.com/theryangeary/choose
 ```sh
 cargo install choose
+```
+
+### difftastic
+
+A diff that understands syntax.
+* https://crates.io/crates/difftastic
+* https://github.com/wilfred/difftastic
+```sh
+cargo install difftastic
 ```
 
 ### dust
@@ -75,6 +83,15 @@ fd is a simple, fast and user-friendly alternative to `find`.
 * https://github.com/sharkdp/fd
 ```sh
 cargo install fd-find
+```
+
+### flamegraph
+
+flamegraph is a tool for visualizing call graphs of Rust programs.
+* https://crates.io/crates/flamegraph
+* https:///github.com/brendangregg/FlameGraph
+```sh
+cargo install flamegraph
 ```
 
 ### fw
@@ -111,6 +128,15 @@ HTML command line parser. Like `jq` for JSON.
 * https://github.com/mgdm/htmlq
 ```sh
 cargo install htmlq
+```
+
+### hwatch
+
+Modern alternative to the watch command.
+* https://crates.io/crates/hwatch
+* *https://github.com/blacknon/hwatch
+```sh
+cargo install hwatch
 ```
 
 ### hunter
@@ -156,6 +182,15 @@ McFly replaces `ctrl-r` shell history search.
 * https://github.com/cantino/mcfly
 ```sh
 cargo install mcfly
+```
+
+### mdBook
+
+mdBook is a utility to create modern online books from Markdown files.
+* https://crates.io/crates/mdbook
+* https://github.com/rust-lang/mdBook
+```sh
+cargo install mdbook
 ```
 
 ### mdcat
@@ -236,6 +271,15 @@ Simple HTTP server that can serve static fils
 * https://github.com/TheWaWaR/simple-http-server
 ```sh
 cargo install simple-http-server 
+```
+
+### sqlx-cli
+
+Command-line utility for SQLx, the Rust SQL toolkit .
+* https://crates.io/crates/sqlx-cli
+* https://github.com/launchbadge/sqlx
+```sh
+cargo install sqlx-cli
 ```
 
 ### starship
@@ -323,6 +367,24 @@ Display information on the cargo cache, with optional cache pruning.
 cargo install cargo-cache
 ```
 
+### cargo-crev
+
+A code review system for the cargo package manager.
+* https://crates.io/crates/cargo-crev/
+* https://github.com/crev-dev/cargo-crev/
+```sh
+cargo install cargo-crev
+```
+
+### cargo-deadlinks
+
+Check your cargo doc documentation for broken links.
+* https://crates.io/crates/cargo-deadlinks
+* https://github.com/deadlinks/cargo-deadlinks
+```sh
+cargo install cargo-deadlinks
+```
+
 ### cargo-docset
 
 Generate a Zeal/Dash docset for your rust package.
@@ -330,6 +392,15 @@ Generate a Zeal/Dash docset for your rust package.
 * https://github.com/Robzz/cargo-docset
 ```sh
 cargo install cargo-docset
+```
+
+### cargo-edit
+
+Edit your cargo file via the command line.
+* https://crates.io/crates/cargo-edit
+* https://github.com/killercup/cargo-edit
+```sh
+cargo install cargo-edit
 ```
 
 ### cargo-make
@@ -348,4 +419,15 @@ Update all Cargo crates.
 * https://github.com/nabijaczleweli/cargo-update
 ```sh
 cargo install cargo-update
+```
+
+
+## Rust components
+
+### clippy
+
+Lints to catch mistakes and improve your Rust code.
+* https://github.com/rust-lang/rust-clippy
+```sh
+rustup component add clippy
 ```

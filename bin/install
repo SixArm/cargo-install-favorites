@@ -8,9 +8,9 @@
 # ## Tracking
 #
 # * Command: https://github.com/sixarm/rust-cargo-favorites/bin/install
-# * Version: 1.7.0
+# * Version: 1.8.0
 # * Created: 2020-06-19T02:05:11Z
-# * Updated: 2022-02-01T08:58:41Z
+# * Updated: 2022-04-03T20:51:28Z
 # * License: [GPL-2.0](https://spdx.org/licenses/GPL-2.0-only.html)
 # * Contact: [Joel Parker Henderson](http://joelparkerhenderson.com)
 ##
@@ -165,7 +165,8 @@ cargo install sccache
 cargo install simple-http-server 
 
 # Command-line utility for SQLx, the Rust SQL toolkit .
-# https://lib.rs/crates/sqlx-cli
+# https://crates.io/crates/sqlx-cli
+# https://github.com/launchbadge/sqlx
 cargo install sqlx-cli
 
 # Fast minimal infinitely customizable prompt for any shell.
