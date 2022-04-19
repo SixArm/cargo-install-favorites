@@ -202,6 +202,16 @@ cat for markdown: Show markdown documents in terminals.
 cargo install mdcat
 ```
 
+### oggify
+
+Download Spotify tracks to Ogg Vorbis (with a premium account).
+
+* https://crates.io/crates/oggify
+* https://github.com/pisto/oggify
+```sh
+cargo install oggify
+```
+
 ### pingkeeper
 
 Monitor that network is reachable; in case of failure, run a command.

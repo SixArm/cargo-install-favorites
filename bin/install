@@ -125,6 +125,11 @@ cargo install mdbook
 # https://github.com/lunaryorn/mdcat
 cargo install mdcat
 
+# Download Spotify tracks to Ogg Vorbis (with a premium account).
+# https://crates.io/crates/oggify
+# https://github.com/pisto/oggify
+cargo install oggify
+
 # Monitor that network is reachable; in case of failure, run a command.
 # https://crates.io/crates/pingkeeper
 # https://github.com/ignlg/pingkeeper
