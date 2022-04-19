@@ -42,7 +42,7 @@ cargo install broot
 
 ### choose
 
-A human-friendly and fast alternative to `cut` and (sometimes) `awk` 
+A human-friendly and fast alternative to `cut` and (sometimes) `awk`
 * https://crates.io/crates/choose
 * https://github.com/theryangeary/choose
 ```sh
@@ -134,7 +134,7 @@ cargo install htmlq
 
 Modern alternative to the watch command.
 * https://crates.io/crates/hwatch
-* *https://github.com/blacknon/hwatch
+* https://github.com/blacknon/hwatch
 ```sh
 cargo install hwatch
 ```
@@ -280,7 +280,7 @@ Simple HTTP server that can serve static fils
 * https://crates.io/crates/simple-http-server
 * https://github.com/TheWaWaR/simple-http-server
 ```sh
-cargo install simple-http-server 
+cargo install simple-http-server
 ```
 
 ### sqlx-cli
@@ -325,7 +325,7 @@ Compile Rust to Wasm and generate JS interop code
 * https://crates.io/crates/wasm-pack
 * https://github.com/rustwasm/wasm-pack
 ```sh
-cargo install wasm-pack          
+cargo install wasm-pack
 ```
 
 ### watchexec-cli
@@ -371,8 +371,8 @@ cargo install zoxide
 ### cargo-cache
 
 Display information on the cargo cache, with optional cache pruning.
-* https://github.com/matthiaskrgr/cargo-cache
 * https://crates.io/crates/cargo-cache
+* https://github.com/matthiaskrgr/cargo-cache
 ```sh
 cargo install cargo-cache
 ```
@@ -424,7 +424,7 @@ cargo install cargo-make
 
 ### cargo-update
 
-Update all Cargo crates. 
+Update all Cargo crates.
 * https://crates.io/crates/cargo-update
 * https://github.com/nabijaczleweli/cargo-update
 ```sh

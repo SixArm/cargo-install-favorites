@@ -167,7 +167,7 @@ cargo install sccache
 # Simple HTTP server that can serve static files.
 # https://crates.io/crates/simple-http-server
 # https://github.com/TheWaWaR/simple-http-server
-cargo install simple-http-server 
+cargo install simple-http-server
 
 # Command-line utility for SQLx, the Rust SQL toolkit .
 # https://crates.io/crates/sqlx-cli
@@ -192,7 +192,7 @@ cargo install tealdeer
 # Compile Rust to Wasm and generate JS interop code.
 # https://crates.io/crates/wasm-pack
 # https://github.com/rustwasm/wasm-pack
-cargo install wasm-pack          
+cargo install wasm-pack
 
 # Watch files for modifications then execute commands.
 # https://crates.io/crates/watchexec-cli
@@ -246,7 +246,7 @@ cargo install cargo-edit
 # https://github.com/sagiegurari/cargo-make
 cargo install cargo-make
 
-# Update all Cargo crates. 
+# Update all Cargo crates.
 # https://crates.io/crates/cargo-update
 # https://github.com/nabijaczleweli/cargo-update
 cargo install cargo-update
