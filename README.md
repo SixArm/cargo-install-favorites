@@ -76,6 +76,16 @@ exa is a modern replacement for `ls`.
 cargo install exa
 ```
 
+### fcp 
+
+fcp is significantly faster alternative to the classic Unix `cp` command.
+
+* https://crates.io/crates/fcp
+* https://github.com/Svetlitski/fcp
+```sh
+cargo install fcp
+```
+
 ### fd
 
 fd is a simple, fast and user-friendly alternative to `find`.
