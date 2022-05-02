@@ -194,6 +194,11 @@ cargo install tera-cli
 # https://github.com/dbrgn/tealdeer
 cargo install tealdeer
 
+# Build, bundle & ship your Rust WASM application to the web. 
+# https://crates.io/crates/trunk
+# https://github.com/thedodd/trunk
+cargo install trunk
+
 # Compile Rust to Wasm and generate JS interop code.
 # https://crates.io/crates/wasm-pack
 # https://github.com/rustwasm/wasm-pack

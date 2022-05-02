@@ -329,6 +329,15 @@ Fetch and show `tldr` help pages for many CLI commands, including offline cachin
 cargo install tealdeer
 ```
 
+### trunk
+
+Build, bundle & ship your Rust WASM application to the web. 
+* https://crates.io/crates/trunk
+*  https://github.com/thedodd/trunk
+```sh
+cargo install trunk
+```
+
 ### wasm-pack
 
 Compile Rust to Wasm and generate JS interop code
