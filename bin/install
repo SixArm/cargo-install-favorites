@@ -8,261 +8,166 @@
 # ## Tracking
 #
 # * Command: https://github.com/sixarm/rust-cargo-favorites/bin/install
-# * Version: 1.8.0
+# * Version: 1.9.0
 # * Created: 2020-06-19T02:05:11Z
-# * Updated: 2022-04-03T20:51:28Z
-# * License: [GPL-2.0](https://spdx.org/licenses/GPL-2.0-only.html)
+# * Updated: 2022-11-05T01:37:41Z
+# * License: [GPL-2.0-or-later](https://spdx.org/licenses/GPL-2.0-or-later.html)
 # * Contact: [Joel Parker Henderson](http://joelparkerhenderson.com)
 ##
 
 # Display current network utilization by process, connection, and remote IP/hostname.
-# https://crates.io/crates/bandwhich
-# https://github.com/imsnif/bandwhich
 cargo install bandwhich
 
 # A `cat` clone with wings.
-# https://crates.io/crates/bat
-# https://github.com/sharkdp/bat
 cargo install bat
 
 # Graphical process/system monitor like `top` with a customizable interface and many features.
-# https://crates.io/crates/bottom
-# https://github.com/ClementTsang/bottom
 cargo install bottom
 
 # A better way to navigate directories. Like `tree`.
-# https://crates.io/crates/broot
-# https://github.com/Canop/broot
 cargo install broot
 
 # A human-friendly and fast alternative to `cut` and (sometimes) `awk`.
-# https://crates.io/crates/choose
-# https://github.com/theryangeary/choose
 cargo install choose
 
 # A diff that understands syntax.
-# https://crates.io/crates/difftastic
-# https://github.com/wilfred/difftastic
 cargo install difftastic
 
 # Show disk usage. Like `du` and more intuitive. Mnemonic: du + rust = dust.
-# https://crates.io/crates/dust
-# https://github.com/bootandy/dust
 cargo install dust
 
 # exa is a modern replacement for `ls`.
-# https://crates.io/crates/exa
-# https://github.com/ogham/exa
 cargo install exa
 
+# evcxr provides a Rust REPL
+rustup component add rust-src && cargo install evcxr_repl
+
 # fcp is significantly faster alternative to the classic Unix `cp` command.
-# https://crates.io/crates/fcp
-# https://github.com/Svetlitski/fcp
 cargo install fcp
 
 # fd is a simple, fast and user-friendly alternative to `find`.
-# https://crates.io/crates/fd-find
-# https://github.com/sharkdp/fd
 cargo install fd-find
 
 # flamegraph is a tool for visualizing call graphs of Rust programs.
-# https://crates.io/crates/flamegraph
-# https:///github.com/brendangregg/FlameGraph
 cargo install flamegraph
 
 # Faster workspace management.
-# https://crates.io/crates/fw
-# https://github.com/brocode/fw
 cargo install fw
 
 # Blazing fast terminal-ui for git.
-# https://crates.io/crates/gitui
-# https://github.com/extrawurst/gitui
 cargo install gitui
 
 # Graphical ping network tracer.
-# https://crates.io/crates/gping
-# https://github.com/orf/gping
 cargo install gping
 
 # HTML command line parser. Like `jq` for JSON.
-# https://crates.io/crates/htmlq
-# https://github.com/mgdm/htmlq
 cargo install htmlq
 
 # Modern alternative to the watch command.
-# https://crates.io/crates/hwatch
-# https://github.com/blacknon/hwatch
 cargo install hwatch
 
 # Fast, lag-free terminal file browser.
-# https://crates.io/crates/hunter
-# https://github.com/rabite0/hunter
 cargo install hunter
 
 # A command-line benchmarking tool.
-# https://crates.io/crates/hyperfine
-# https://github.com/sharkdp/hyperfine
 cargo install hyperfine
 
 # Fast indexing and querying your filesystem. Replaces `locate`, `mlocate`, `updatedb`.
-# https://crates.io/crates/lolcate-rs
-# https://github.com/ngirard/lolcate-rs
 cargo install lolcate-rs
 
 # ls command with a lot of pretty colors and backwards compatibility.
-# https://crates.io/crates/lsd
-# https://github.com/Peltoche/lsd
 cargo install lsd
 
 # McFly replaces `ctrl-r` shell history search.
-# https://crates.io/crates/mcfly
-# https://github.com/cantino/mcfly
 cargo install mcfly
 
 # mdBook is a utility to create modern online books from Markdown files.
-# https://crates.io/crates/mdbook
-# https://github.com/rust-lang/mdBook
 cargo install mdbook
 
 # cat for markdown: Show markdown documents in terminals.
-# https://crates.io/crates/mdcat
-# https://github.com/lunaryorn/mdcat
 cargo install mdcat
 
 # Download Spotify tracks to Ogg Vorbis (with a premium account).
-# https://crates.io/crates/oggify
-# https://github.com/pisto/oggify
 cargo install oggify
 
 # Monitor that network is reachable; in case of failure, run a command.
-# https://crates.io/crates/pingkeeper
-# https://github.com/ignlg/pingkeeper
 cargo install pingkeeper
 
 # Monitor system processes. Like `ps`.
-# https://crates.io/crates/procs
-# https://github.com/dalance/procs
 cargo install procs
 
 # Project management CLI for git repos.
-# https://crates.io/crates/projector
 cargo install projector
 
 # ripgrep is a regular expression text search tool. Like `grep`.
-# https://crates.io/crates/ripgrep
-# https://github.com/BurntSushi/ripgrep
 cargo install ripgrep
 
 # ripgrep-all uses ripgrep to search files via other installed tools: pandoc, poppler, tesseract, ffmpeg, etc.
-# https://crates.io/crates/ripgrep_all
-# https://github.com/phiresky/ripgrep-all
 cargo install ripgrep_all
 
 # An intuitive find & replace CLI.
-# https://crates.io/crates/ds
-# https://github.com/chmln/sd
 cargo install sd
 
 # Shared Compilation Cache.
-# https://crates.io/crates/sccache
-# https://github.com/mozilla/sccache
 cargo install sccache
 
 # Simple HTTP server that can serve static files.
-# https://crates.io/crates/simple-http-server
-# https://github.com/TheWaWaR/simple-http-server
 cargo install simple-http-server
 
 # Command-line utility for SQLx, the Rust SQL toolkit .
-# https://crates.io/crates/sqlx-cli
-# https://github.com/launchbadge/sqlx
 cargo install sqlx-cli
 
 # Fast minimal infinitely customizable prompt for any shell.
-# https://crates.io/crates/starship
-# https://github.com/starship/starship
 cargo install starship
 
 # Tera CLI for one-off Tera template interpolation from context file / env vars.
-# https://crates.io/crates/tera-cli
-# https://github.com/guangie88/tera-cli
 cargo install tera-cli
 
 # Fetch and show `tldr` help pages for many CLI commands, including offline caching.
-# https://crates.io/crates/tealdeer
-# https://github.com/dbrgn/tealdeer
 cargo install tealdeer
 
 # Build, bundle & ship your Rust WASM application to the web. 
-# https://crates.io/crates/trunk
-# https://github.com/thedodd/trunk
 cargo install trunk
 
 # Compile Rust to Wasm and generate JS interop code.
-# https://crates.io/crates/wasm-pack
-# https://github.com/rustwasm/wasm-pack
 cargo install wasm-pack
 
 # Watch files for modifications then execute commands.
-# https://crates.io/crates/watchexec-cli
-# https://github.com/watchexec/watchexec
 cargo install watchexec-cli
 
 # xh is a friendly and fast tool for sending HTTP requests.
-# https://crates.io/crates/xh
-# https://github.com/ducaale/xh
 cargo install xh
 
 # Terminal workspace multiplexer. Like `screen` and `tmux`.
-# https://crates.io/crates/zellij
-# https://github.com/zellij-org/zellij
 cargo install zellij
 
 # A faster way to navigate your filesystem. Like `cd` and `jump`.
-# https://crates.io/crates/zoxide
-# https://github.com/ajeetdsouza/zoxide
 cargo install zoxide
 
 ### Cargo helpers ###
 
 # Display information on the cargo cache, with optional cache pruning.
-# https://github.com/matthiaskrgr/cargo-cache
-# https://crates.io/crates/cargo-cache
 cargo install cargo-cache
 
 # A code review system for the cargo package manager.
-# https://crates.io/crates/cargo-crev/
-# https://github.com/crev-dev/cargo-crev/
 cargo install cargo-crev
 
 # Check your cargo doc documentation for broken links.
-# https://crates.io/crates/cargo-deadlinks
-# https://github.com/deadlinks/cargo-deadlinks
 cargo install cargo-deadlinks
 
 # Generate a Zeal/Dash docset for your rust package.
-# https://crates.io/crates/cargo-docset
-# https://github.com/Robzz/cargo-docset
 cargo install cargo-docset
 
 # Edit your cargo file via the command line.
-# https://crates.io/crates/cargo-edit
-# https://github.com/killercup/cargo-edit
 cargo install cargo-edit
 
 # Task runner akin to `make` command with `Makefile`
-# https://crates.io/crates/cargo-make
-# https://github.com/sagiegurari/cargo-make
 cargo install cargo-make
 
 # Update all Cargo crates.
-# https://crates.io/crates/cargo-update
-# https://github.com/nabijaczleweli/cargo-update
 cargo install cargo-update
 
 ### Rust components
 
 # Lints to catch mistakes and improve your Rust code.
-# https://github.com/rust-lang/rust-clippy
 rustup component add clippy
