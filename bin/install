@@ -72,6 +72,9 @@ cargo install hunter
 # A command-line benchmarking tool.
 cargo install hyperfine
 
+# Just command runner, like a modern `make`.
+cargo install just
+
 # Fast indexing and querying your filesystem. Replaces `locate`, `mlocate`, `updatedb`.
 cargo install lolcate-rs
 

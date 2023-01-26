@@ -167,6 +167,15 @@ A command-line benchmarking tool.
 cargo install hyperfine
 ```
 
+### just
+
+Just command runner, like a modern `make`.
+* https://crates.io/crates/just
+* https://github.com/casey/just
+```sh
+cargo install just
+```
+
 ### lolcate-rs
 
 Fast indexing and querying your filesystem. Replaces `locate`, `mlocate`, `updatedb`.
