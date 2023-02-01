@@ -158,6 +158,9 @@ cargo install cargo-crev
 # Check your cargo doc documentation for broken links.
 cargo install cargo-deadlinks
 
+# For building final distributable artifacts and uploading them to an archive.
+cargo install cargo-dist
+
 # Generate a Zeal/Dash docset for your rust package.
 cargo install cargo-docset
 

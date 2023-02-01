@@ -423,6 +423,15 @@ Check your cargo doc documentation for broken links.
 cargo install cargo-deadlinks
 ```
 
+### cargo-dist
+
+For building final distributable artifacts and uploading them to an archive.
+* https://github.com/axodotdev/cargo-dist
+* https://crates.io/crates/cargo-dist
+```sh
+cargo install cargo-dist
+```
+
 ### cargo-docset
 
 Generate a Zeal/Dash docset for your rust package.
@@ -448,6 +457,15 @@ Task runner akin to `make` command with `Makefile`
 * https://github.com/sagiegurari/cargo-make
 ```sh
 cargo install cargo-make
+```
+
+### cargo-release
+
+Cargo subcommand for you to smooth your release process.
+* https://crates.io/crates/cargo-release
+* https://github.com/crate-ci/cargo-release 
+```sh
+cargo install cargo-release
 ```
 
 ### cargo-update
