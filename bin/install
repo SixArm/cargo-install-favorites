@@ -170,6 +170,9 @@ cargo install cargo-edit
 # Task runner akin to `make` command with `Makefile`
 cargo install cargo-make
 
+# Cargo subcommand for you to smooth your release process. 
+cargo install cargo-release
+
 # Update all Cargo crates.
 cargo install cargo-update
 
