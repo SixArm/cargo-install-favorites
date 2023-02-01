@@ -426,8 +426,8 @@ cargo install cargo-deadlinks
 ### cargo-dist
 
 For building final distributable artifacts and uploading them to an archive.
-* https://github.com/axodotdev/cargo-dist
 * https://crates.io/crates/cargo-dist
+* https://github.com/axodotdev/cargo-dist
 ```sh
 cargo install cargo-dist
 ```
