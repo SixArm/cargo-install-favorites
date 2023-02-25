@@ -167,6 +167,9 @@ cargo install cargo-docset
 # Edit your cargo file via the command line.
 cargo install cargo-edit
 
+# Crate a new Rust project by leveraging a pre-existing template
+cargo install cargo-generate
+
 # Task runner akin to `make` command with `Makefile`
 cargo install cargo-make
 

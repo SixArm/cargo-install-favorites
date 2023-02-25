@@ -450,6 +450,15 @@ Edit your cargo file via the command line.
 cargo install cargo-edit
 ```
 
+### cargo-generate
+
+Crate a new Rust project by leveraging a pre-existing template.
+* https://crates.io/crates/cargo-generate
+* https://github.com/cargo-generate/cargo-generate
+```sh
+cargo install cargo-generate
+```
+
 ### cargo-make
 
 Task runner akin to `make` command with `Makefile`
