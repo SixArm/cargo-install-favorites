@@ -8,10 +8,10 @@
 # ## Tracking
 #
 # * Command: https://github.com/sixarm/rust-cargo-favorites/bin/install
-# * Version: 1.10.0
+# * Version: 1.11.0
 # * Created: 2020-06-19T02:05:11Z
-# * Updated: 2023-02-01T22:28:37Z
-# * License: [GPL-2.0-or-later](https://spdx.org/licenses/GPL-2.0-or-later.html)
+# * Updated: 2023-03-10T16:41:25Z
+# * License: GPL-2.0 or GPL-3.0 or contact us for me
 # * Contact: [Joel Parker Henderson](http://joelparkerhenderson.com)
 ##
 
@@ -176,7 +176,14 @@ cargo install cargo-make
 # Cargo subcommand for you to smooth your release process. 
 cargo install cargo-release
 
+# mdBook for generating markdown documentation as a book
+cargo install mdbook
+
+# mdBook PDF for generating markdown documentation as a PDF file
+cargo install mdbook-pdf
+
 ### Rust components
 
 # Lints to catch mistakes and improve your Rust code.
 rustup component add clippy
+
