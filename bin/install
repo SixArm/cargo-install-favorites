@@ -176,9 +176,6 @@ cargo install cargo-make
 # Cargo subcommand for you to smooth your release process. 
 cargo install cargo-release
 
-# Update all Cargo crates.
-cargo install cargo-update
-
 ### Rust components
 
 # Lints to catch mistakes and improve your Rust code.
