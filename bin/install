@@ -179,7 +179,13 @@ cargo install cargo-release
 # mdBook for generating markdown documentation as a book
 cargo install mdbook
 
-# mdBook PDF for generating markdown documentation as a PDF file
+# mdBook PDF for generating markdown documentation as a PDF file.
+#
+# If you use macOS and brew, then you may want/need to install Chromium,
+# and ensure there is no macOS quarantine that stops Chromium launching:
+#
+#     brew install chromium --no-quarantine
+#
 cargo install mdbook-pdf --features fetch
 
 ### Rust components
