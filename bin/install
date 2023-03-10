@@ -180,7 +180,7 @@ cargo install cargo-release
 cargo install mdbook
 
 # mdBook PDF for generating markdown documentation as a PDF file
-cargo install mdbook-pdf
+cargo install mdbook-pdf --features fetch
 
 ### Rust components
 
