@@ -36,6 +36,9 @@ cargo install difftastic
 # Show disk usage. Like `du` and more intuitive. Mnemonic: du + rust = dust.
 cargo install dust
 
+# File-tree visualizer and disk usage analyzer, akin to tree + du.
+cargo install erdtree
+
 # exa is a modern replacement for `ls`.
 cargo install exa
 
