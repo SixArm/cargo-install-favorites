@@ -8,9 +8,9 @@
 # ## Tracking
 #
 # * Command: https://github.com/sixarm/rust-cargo-favorites/bin/install
-# * Version: 1.11.0
+# * Version: 1.11.1
 # * Created: 2020-06-19T02:05:11Z
-# * Updated: 2023-03-10T16:41:25Z
+# * Updated: 2023-03-31T12:29:32Z
 # * License: GPL-2.0 or GPL-3.0 or contact us for me
 # * Contact: [Joel Parker Henderson](http://joelparkerhenderson.com)
 ##
@@ -34,7 +34,7 @@ cargo install choose
 cargo install difftastic
 
 # Show disk usage. Like `du` and more intuitive. Mnemonic: du + rust = dust.
-cargo install dust
+cargo install du-dust
 
 # File-tree visualizer and disk usage analyzer, akin to tree + du.
 cargo install erdtree
