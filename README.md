@@ -133,11 +133,20 @@ cargo install gping
 
 ### htmlq
 
-HTML command line parser. Like `jq` for JSON.
+HTML command line parser. Like `jq` for JSON. Simple.
 * https://crates.io/crates/htmlq
 * https://github.com/mgdm/htmlq
 ```sh
 cargo install htmlq
+```
+
+### html-query
+
+HTML command line parser. Like `jq` for JSON. Advanced.
+* https://crates.io/crates/html-query
+* https://github.com/orf/hq
+```sh
+cargo install html-query
 ```
 
 ### hwatch

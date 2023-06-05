@@ -63,8 +63,11 @@ cargo install gitui
 # Graphical ping network tracer.
 cargo install gping
 
-# HTML command line parser. Like `jq` for JSON.
+# HTML command line parser. Like `jq` for JSON. Simple.
 cargo install htmlq
+
+# HTML command line parser. Like `jq` for JSON. Advanced.
+cargo install html-query
 
 # Modern alternative to the watch command.
 cargo install hwatch
