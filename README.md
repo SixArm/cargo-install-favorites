@@ -67,13 +67,13 @@ Show disk usage. Like `du` and more intuitive. Mnemonic: du + rust = dust.
 cargo install dust
 ```
 
-### exa
+### eza
 
-exa is a modern replacement for `ls`.
-* https://crates.io/crates/exa
-* https://github.com/ogham/exa
+eza is a modern replacement for `ls`.
+* https://crates.io/crates/eza
+* https://github.com/ogham/eza
 ```sh
-cargo install exa
+cargo install eza
 ```
 
 ### fcp 
