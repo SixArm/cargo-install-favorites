@@ -4,7 +4,7 @@ Our favorites for Rust, Cargo, and the related ecosystems, especially for using 
 
 Runnable script: [install](bin/install)
 
-### Amber
+### amber
 
 Code search and replace tool. Like find | sed -i.
 
