@@ -358,6 +358,15 @@ Fetch and show `tldr` help pages for many CLI commands, including offline cachin
 cargo install tealdeer
 ```
 
+### trippy
+
+Network diagnostic TUI tool, like a better ping, traceroute, mtr, and more.
+* https://crates.io/crates/trippy
+* https://github.com/fujiapple852/trippy
+```sh
+cargo install trippy
+```
+
 ### trunk
 
 Build, bundle & ship your Rust WASM application to the web. 

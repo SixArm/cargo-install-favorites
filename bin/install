@@ -138,6 +138,9 @@ cargo install tera-cli
 # Fetch and show `tldr` help pages for many CLI commands, including offline caching.
 cargo install tealdeer
 
+# Network diagnostic TUI tool, like a better ping, traceroute, mtr, and more.
+cargo install trippy
+
 # Build, bundle & ship your Rust WASM application to the web. 
 cargo install trunk
 
