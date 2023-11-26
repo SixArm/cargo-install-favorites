@@ -15,6 +15,9 @@
 # * Contact: [Joel Parker Henderson](http://joelparkerhenderson.com)
 ##
 
+# Code search and replace tool. Like find | sed -i.
+cargo install amber
+
 # Display current network utilization by process, connection, and remote IP/hostname.
 cargo install bandwhich
 

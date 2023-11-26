@@ -4,6 +4,17 @@ Our favorites for Rust, Cargo, and the related ecosystems, especially for using 
 
 Runnable script: [install](bin/install)
 
+### Amber
+
+Code search and replace tool. Like find | sed -i.
+
+* https://crates.io/crates/amber
+* https://github.com/dalance/amber
+
+```sh
+cargo install amber
+```
+
 ### bandwhich
 
 Display current network utilization by process, connection, and remote IP/hostname.
