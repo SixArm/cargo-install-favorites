@@ -72,10 +72,10 @@ cargo install difftastic
 ### dust
 
 Show disk usage. Like `du` and more intuitive. Mnemonic: du + rust = dust.
-* https://crates.io/crates/dust
+* https://crates.io/crates/du-dust
 * https://github.com/bootandy/dust
 ```sh
-cargo install dust
+cargo install du-dust
 ```
 
 ### eza
