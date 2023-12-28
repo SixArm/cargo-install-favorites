@@ -7,10 +7,8 @@ Runnable script: [install](bin/install)
 ### amber
 
 Code search and replace tool. Like find | sed -i.
-
 * https://crates.io/crates/amber
 * https://github.com/dalance/amber
-
 ```sh
 cargo install amber
 ```
@@ -504,6 +502,15 @@ Cargo subcommand for you to smooth your release process.
 * https://github.com/crate-ci/cargo-release 
 ```sh
 cargo install cargo-release
+```
+
+### cargo-sweep
+
+Cargo subcommand to delete unwanted build files.
+* https://crates.io/crates/cargo-sweep
+* https://github.com/holmgr/cargo-sweep
+```sh
+cargo install cargo-sweep
 ```
 
 ### cargo-update

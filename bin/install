@@ -188,6 +188,9 @@ cargo install cargo-make
 # Cargo subcommand for you to smooth your release process. 
 cargo install cargo-release
 
+# Cargo subcommand to delete unwanted build files.
+cargo install cargo-sweep
+
 # mdBook for generating markdown documentation as a book
 cargo install mdbook
 
