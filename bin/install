@@ -191,6 +191,9 @@ cargo install cargo-release
 # Cargo subcommand to delete unwanted build files.
 cargo install cargo-sweep
 
+# Cargo subcommand to show which crates need upgrades.
+cargo install cargo-upgrades
+
 # mdBook for generating markdown documentation as a book
 cargo install mdbook
 
