@@ -39,6 +39,9 @@ cargo install difftastic
 # Show disk usage. Like `du` and more intuitive. Mnemonic: du + rust = dust.
 cargo install du-dust
 
+# Show and analyze file system usage. Like `du` with more features and colors.
+cargo install dutree
+
 # File-tree visualizer and disk usage analyzer, akin to tree + du.
 cargo install erdtree
 
