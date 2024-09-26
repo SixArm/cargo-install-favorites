@@ -63,6 +63,9 @@ cargo install flamegraph
 # Faster workspace management.
 cargo install fw
 
+# git-absorb is a git rebase tool that does automatic fixup on commits.
+cargo install git-absorb
+
 # Blazing fast terminal-ui for git.
 cargo install gitui
 
