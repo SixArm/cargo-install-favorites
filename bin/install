@@ -123,11 +123,14 @@ cargo install ripgrep
 # ripgrep-all uses ripgrep to search files via other installed tools: pandoc, poppler, tesseract, ffmpeg, etc.
 cargo install ripgrep_all
 
+# Shared Compilation Cache.
+cargo install sccache
+
 # An intuitive find & replace CLI.
 cargo install sd
 
-# Shared Compilation Cache.
-cargo install sccache
+# Scooter is an interactive find-and-replace terminal UI app.
+cargo install scooter
 
 # Simple HTTP server that can serve static files.
 cargo install simple-http-server
