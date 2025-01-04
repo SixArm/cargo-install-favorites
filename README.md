@@ -515,13 +515,21 @@ cargo install cargo-sweep
 
 ### cargo-update
 
-Update all Cargo crates.
+Cargo subcommand for checking and applying updates to installed executables.
 * https://crates.io/crates/cargo-update
 * https://github.com/nabijaczleweli/cargo-update
 ```sh
 cargo install cargo-update
 ```
 
+### cargo-upgrades
+
+Cargo subcommand to show which crates need upgrades.
+* https://crates.io/crates/cargo-upgrades
+* https://gitlab.com/kornelski/cargo-upgrades
+```sh
+cargo install cargo-upgrades
+```
 
 ## Rust components
 
