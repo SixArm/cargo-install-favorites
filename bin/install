@@ -153,7 +153,7 @@ cargo install tealdeer
 # Network diagnostic TUI tool, like a better ping, traceroute, mtr, and more.
 cargo install trippy
 
-# Build, bundle & ship your Rust WASM application to the web. 
+# Build, bundle & ship your Rust WASM application to the web.
 cargo install trunk
 
 # Compile Rust to Wasm and generate JS interop code.
@@ -197,11 +197,14 @@ cargo install cargo-generate
 # Task runner akin to `make` command with `Makefile`
 cargo install cargo-make
 
-# Cargo subcommand for you to smooth your release process. 
+# Cargo subcommand for you to smooth your release process.
 cargo install cargo-release
 
 # Cargo subcommand to delete unwanted build files.
 cargo install cargo-sweep
+
+# Cargo subcommand for checking and applying updates to installed executables
+cargo install cargo-update
 
 # Cargo subcommand to show which crates need upgrades.
 cargo install cargo-upgrades
@@ -222,4 +225,5 @@ cargo install mdbook-pdf --features fetch
 
 # Lints to catch mistakes and improve your Rust code.
 rustup component add clippy
+
 

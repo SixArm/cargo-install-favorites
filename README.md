@@ -85,7 +85,7 @@ eza is a modern replacement for `ls`.
 cargo install eza
 ```
 
-### fcp 
+### fcp
 
 fcp is significantly faster alternative to the classic Unix `cp` command.
 
@@ -367,7 +367,7 @@ cargo install trippy
 
 ### trunk
 
-Build, bundle & ship your Rust WASM application to the web. 
+Build, bundle & ship your Rust WASM application to the web.
 * https://crates.io/crates/trunk
 *  https://github.com/thedodd/trunk
 ```sh
@@ -499,7 +499,7 @@ cargo install cargo-make
 
 Cargo subcommand for you to smooth your release process.
 * https://crates.io/crates/cargo-release
-* https://github.com/crate-ci/cargo-release 
+* https://github.com/crate-ci/cargo-release
 ```sh
 cargo install cargo-release
 ```
