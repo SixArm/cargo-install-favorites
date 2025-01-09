@@ -120,6 +120,9 @@ cargo install procs
 # Project management CLI for git repos.
 cargo install projector
 
+# Database management tui for postgres.
+cargo install rainfrog
+
 # ripgrep is a regular expression text search tool. Like `grep`.
 cargo install ripgrep
 
@@ -164,6 +167,9 @@ cargo install watchexec-cli
 
 # xh is a friendly and fast tool for sending HTTP requests.
 cargo install xh
+
+# Blazing fast terminal file manager written in Rust, based on async I/O. 
+cargo install yazi-fm yazi-cli
 
 # Terminal workspace multiplexer. Like `screen` and `tmux`.
 cargo install zellij
