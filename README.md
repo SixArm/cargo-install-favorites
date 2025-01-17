@@ -11,6 +11,13 @@ Code search and replace tool. Like find | sed -i.
 cargo install amber
 ```
 
+### bacon
+
+Background code checker.
+```
+cargo install bacon
+```
+
 ### bandwhich
 
 Display current network utilization by process, connection, and remote IP/hostname.
@@ -213,6 +220,13 @@ cargo install procs
 Project management CLI for git repos
 ```sh
 cargo install projector
+```
+
+### rainfrog
+
+Database management tui for postgres.
+```sh
+cargo install rainfrog
 ```
 
 ### ripgrep

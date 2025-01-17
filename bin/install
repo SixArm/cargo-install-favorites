@@ -8,15 +8,18 @@
 # ## Tracking
 #
 # * Command: https://github.com/sixarm/rust-cargo-favorites/bin/install
-# * Version: 1.13.0
+# * Version: 1.14.0
 # * Created: 2020-06-19T02:05:11Z
-# * Updated: 2024-12-10T18:22:54Z
+# * Updated: 2025-01-17T22:29:34Z
 # * License: GPL-2.0 or GPL-3.0 or contact us for me
 # * Contact: [Joel Parker Henderson](http://joelparkerhenderson.com)
 ##
 
 # Code search and replace tool. Like find | sed -i.
 cargo install amber
+
+# Background code checker.
+cargo install bacon
 
 # Display current network utilization by process, connection, and remote IP/hostname.
 cargo install bandwhich
