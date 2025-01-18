@@ -402,6 +402,13 @@ Crate a new Rust project by leveraging a pre-existing template.
 cargo install cargo-generate
 ```
 
+### cargo-machete
+
+Detect unused dependencies in Rust projects, in a fast yet imprecise way.
+```sh
+cargo install cargo-machete
+```
+
 ### cargo-make
 
 Task runner akin to `make` command with `Makefile`
