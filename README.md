@@ -302,7 +302,6 @@ cargo install trippy
 ### trunk
 
 Build, bundle & ship your Rust WASM application to the web.
-*  https://github.com/thedodd/trunk
 ```sh
 cargo install trunk
 ```
