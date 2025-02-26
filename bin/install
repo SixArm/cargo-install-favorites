@@ -52,7 +52,12 @@ cargo install erdtree
 cargo install eza
 
 # evcxr provides a Rust REPL
-rustup component add rust-src && cargo install evcxr_repl
+rustup component add rust-src && 
+cargo install evcxr_repl
+
+# fclones is a Efficient duplicate file finder and remover
+cargo install fclones &&
+cargo install fclones-gui
 
 # fcp is significantly faster alternative to the classic Unix `cp` command.
 cargo install fcp
@@ -202,6 +207,9 @@ cargo install cargo-edit
 
 # Crate a new Rust project by leveraging a pre-existing template
 cargo install cargo-generate
+
+# Detect unused dependencies in Rust projects, in a fast yet imprecise way.
+cargo install cargo-machete
 
 # Task runner akin to `make` command with `Makefile`
 cargo install cargo-make
