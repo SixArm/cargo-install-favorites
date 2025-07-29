@@ -208,9 +208,13 @@ cargo install cargo-edit
 # Crate a new Rust project by leveraging a pre-existing template
 cargo install cargo-generate
 
+# List each dependency's license.
+cargo install cargo-license
+
 # Detect unused dependencies in Rust projects, in a fast yet imprecise way.
 cargo install cargo-machete
 
+>>>>>>> 9e4589d (Add cargo-license)
 # Task runner akin to `make` command with `Makefile`
 cargo install cargo-make
 
@@ -242,5 +246,3 @@ cargo install mdbook-pdf --features fetch
 
 # Lints to catch mistakes and improve your Rust code.
 rustup component add clippy
-
-

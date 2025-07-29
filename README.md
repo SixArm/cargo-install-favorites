@@ -401,6 +401,13 @@ Crate a new Rust project by leveraging a pre-existing template.
 cargo install cargo-generate
 ```
 
+### cargo-license
+
+List each dependency's license.
+```sh
+cargo install cargo-license
+```
+
 ### cargo-machete
 
 Detect unused dependencies in Rust projects, in a fast yet imprecise way.
