@@ -116,6 +116,13 @@ Graphical ping network tracer.
 cargo install gping
 ```
 
+### hist
+
+Histogram is a fast CLI to count unique lines. Like `sort | uniq -c | sort -n` 25x faster.
+```sh
+cargo install hist-rs
+```
+
 ### htmlq
 
 HTML command line parser. Like `jq` for JSON. Simple.

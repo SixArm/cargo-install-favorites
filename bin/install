@@ -83,6 +83,9 @@ cargo install gitui
 # Graphical ping network tracer.
 cargo install gping
 
+# Histogram: a fst CLI to count unique lines. Like `sort | uniq -c | sort -n` 25x faster.
+cargo install hist-rs
+
 # HTML command line parser. Like `jq` for JSON. Simple.
 cargo install htmlq
 
