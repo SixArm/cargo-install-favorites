@@ -52,7 +52,7 @@ cargo install erdtree
 cargo install eza
 
 # evcxr provides a Rust REPL
-rustup component add rust-src && 
+rustup component add rust-src &&
 cargo install evcxr_repl
 
 # fclones is a Efficient duplicate file finder and remover
@@ -179,7 +179,7 @@ cargo install watchexec-cli
 # xh is a friendly and fast tool for sending HTTP requests.
 cargo install xh
 
-# Blazing fast terminal file manager written in Rust, based on async I/O. 
+# Blazing fast terminal file manager written in Rust, based on async I/O.
 cargo install yazi-fm yazi-cli
 
 # Terminal workspace multiplexer. Like `screen` and `tmux`.
@@ -192,6 +192,9 @@ cargo install zoxide
 
 # Display information on the cargo cache, with optional cache pruning.
 cargo install cargo-cache
+
+# Clean all projects under a specified directory.
+cargo install cargo-clean-recursive
 
 # A code review system for the cargo package manager.
 cargo install cargo-crev
