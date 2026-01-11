@@ -436,6 +436,14 @@ Cargo subcommand for you to smooth your release process.
 cargo install cargo-release
 ```
 
+### cargo-semver-checks
+
+Scan your Rust crate for sematic version violations.
+
+```sh
+cargo install cargo-semver-checks
+```
+
 ### cargo-sweep
 
 Cargo subcommand to delete unwanted build files.
