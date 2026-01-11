@@ -8,9 +8,9 @@
 # ## Tracking
 #
 # * Command: https://github.com/sixarm/rust-cargo-favorites/bin/install
-# * Version: 1.14.0
+# * Version: 1.15.0
 # * Created: 2020-06-19T02:05:11Z
-# * Updated: 2025-01-17T22:29:34Z
+# * Updated: 2026-01-11T22:34:06Z
 # * License: GPL-2.0 or GPL-3.0 or contact us for me
 # * Contact: [Joel Parker Henderson](http://joelparkerhenderson.com)
 ##
@@ -220,12 +220,14 @@ cargo install cargo-license
 # Detect unused dependencies in Rust projects, in a fast yet imprecise way.
 cargo install cargo-machete
 
->>>>>>> 9e4589d (Add cargo-license)
 # Task runner akin to `make` command with `Makefile`
 cargo install cargo-make
 
 # Cargo subcommand for you to smooth your release process.
 cargo install cargo-release
+
+# Cargo subcommand to scan your Rust crate for sematic version violations.
+cargo install cargo-semver-checks
 
 # Cargo subcommand to delete unwanted build files.
 cargo install cargo-sweep
