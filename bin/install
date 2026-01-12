@@ -202,7 +202,10 @@ cargo install cargo-crev
 # Check your cargo doc documentation for broken links.
 cargo install cargo-deadlinks
 
-# For building final distributable artifacts and uploading them to an archive.
+# Lint dependencies.
+cargo install cargo-deny
+
+# Build final distributable artifacts and uploading them to an archive.
 cargo install cargo-dist
 
 # Generate a Zeal/Dash docset for your rust package.
@@ -223,19 +226,19 @@ cargo install cargo-machete
 # Task runner akin to `make` command with `Makefile`
 cargo install cargo-make
 
-# Cargo subcommand for you to smooth your release process.
+# Smooth your release process.
 cargo install cargo-release
 
-# Cargo subcommand to scan your Rust crate for sematic version violations.
+# Scan your Rust crate for sematic version violations.
 cargo install cargo-semver-checks
 
-# Cargo subcommand to delete unwanted build files.
+# Delete unwanted build files.
 cargo install cargo-sweep
 
-# Cargo subcommand for checking and applying updates to installed executables
+# Check and apply updates to installed executables
 cargo install cargo-update
 
-# Cargo subcommand to show which crates need upgrades.
+# Show which crates need upgrades.
 cargo install cargo-upgrades
 
 # mdBook for generating markdown documentation as a book

@@ -380,6 +380,14 @@ Check your cargo doc documentation for broken links.
 cargo install cargo-deadlinks
 ```
 
+### cargo-deny
+
+Lint dependencies.
+
+```sh
+cargo install cargo-deny
+```
+
 ### cargo-dist
 
 For building final distributable artifacts and uploading them to an archive.
