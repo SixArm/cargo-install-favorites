@@ -104,6 +104,9 @@ cargo install hyperfine
 # Just command runner, like a modern `make`.
 cargo install just
 
+# Cache for local builds and CI; like `sscache` with more features and better performance.
+cargo install kache
+
 # Fast indexing and querying your filesystem. Replaces `locate`, `mlocate`, `updatedb`.
 cargo install lolcate-rs
 
